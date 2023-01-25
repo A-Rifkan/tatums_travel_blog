@@ -1,0 +1,35 @@
+*{
+    font-family: Arial;
+}
+h1{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#backg{
+    background-color: white;
+}
+.articleb{
+    background-image: linear-gradient(purple, green);
+}
+header{
+    background-image: url("https://images.unsplash.com/photo-1470125634816-ede3f51bbb42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3Vuc2V0JTIwcGFub3JhbWF8ZW58MHx8MHx8&w=1000&q=80");
+    background-size: cover;
+    color: white;
+}
+/* stle for anchor */
+a:link { 
+    text-decoration: none; 
+}
+
+
+a:visited { 
+    text-decoration: none; 
+}
+
+a:hover{
+    color: lightseagreen;
+}
